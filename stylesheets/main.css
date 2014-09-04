@@ -337,7 +337,7 @@ textarea {
   font-size: 12px;
   color: #787878;
   text-align: right;
-  margin-top: 145px;
+  margin-top: 125px;
 }
 
 .post {
@@ -365,19 +365,19 @@ textarea {
   }
 }
 .posts-img-1 {
-  background-image: url("../photos/1.png");
+  background-image: url("../photos/Paris-1.png");
 }
 
 .posts-img-2 {
-  background-image: url("../photos/2.png");
+  background-image: url("../photos/Paris-2.png");
 }
 
 .posts-img-3 {
-  background-image: url("../photos/3.png");
+  background-image: url("../photos/Paris-3.png");
 }
 
 .posts-img-4 {
-  background-image: url("../photos/1.png");
+  background-image: url("../photos/Paris-4.png");
 }
 
 .posts-img-1,
